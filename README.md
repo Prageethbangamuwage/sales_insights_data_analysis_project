@@ -20,7 +20,7 @@ Designed to support data-driven decision making in sales strategy.
 
 🗺️ Business Problem
 
-The company needed:
+The company needed
 
 ✅ Clear visibility of sales and revenue performance by region and time
 ✅ Identification of top customers and products
@@ -30,51 +30,51 @@ The company needed:
 
 🛠️ Steps to Build This Project
 
-Below are the steps I followed to complete the project:
+Below are the steps I followed to complete the project
 
-Setup MySQL Workbench
+1. Setup MySQL Workbench
 
-Imported the provided sales dataset into MySQL.
+* Imported the provided sales dataset into MySQL.
 
-Ran SQL queries for initial exploration and cleaning.
+* Ran SQL queries for initial exploration and cleaning.
 
-Connect Power BI to MySQL Database
+2. Connect Power BI to MySQL Database
 
-Established a live connection to MySQL from Power BI.
+* Established a live connection to MySQL from Power BI.
 
-Loaded all relevant tables.
+* Loaded all relevant tables.
 
-Transform & Clean Data in Power BI
+3. Transform & Clean Data in Power BI
 
-Removed blank columns.
+* Removed blank columns.
 
-Created new calculated columns.
+* Created new calculated columns.
 
-Transformed currency formats.
+* Transformed currency formats.
 
-Verified and corrected table relationships.
+* Verified and corrected table relationships.
 
-Model the Data
+3. Model the Data
 
-Defined relationships between tables.
+*Defined relationships between tables.
 
-Ensured a clean and logical data model for analysis.
+* Ensured a clean and logical data model for analysis.
 
-Develop the Dashboard
+4. Develop the Dashboard
 
-Created interactive visualizations:
+* Created interactive visualizations
 
-Revenue by Market
+   - Revenue by Market
 
-Sales Quantity by Market
+   - Sales Quantity by Market
 
-Revenue Trend over time
+   - Revenue Trend over time
 
-Top Customers
+   - Top Customers
 
-Top Products
+   - Top Products
 
-Added dynamic filters (year, month) for detailed analysis.
+*Added dynamic filters (year, month) for detailed analysis.
 
 
 📈 Features of the Dashboard
